@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "11",
     "category": "Top Sellers",
     "url": "top-sellers.html",
@@ -7,8 +6,4 @@
     "show_menu": "1",
     "level": "2",
     "parent": "2",
- 
-     
-  }
-  
-]
+ }]
