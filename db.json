@@ -7,34 +7,7 @@
     "show_menu": "1",
     "level": "2",
     "parent": "2",
-    "sub_category": [
-      {
-        "id": "6",
-        "category": "Postcards",
-        "url": "top-sellers/postcards.html",
-        "active": "1",
-        "show_menu": "1",
-        "level": "3",
-        "parent": "11"
-      },
-      {
-        "id": "9",
-        "category": "Flyers",
-        "url": "top-sellers/flyerscat.html",
-        "active": "1",
-        "show_menu": "1",
-        "level": "3",
-        "parent": "11"
-      },
-      {
-        "id": "10",
-        "category": "Business Cards",
-        "url": "top-sellers/business-cards.html",
-        "active": "1",
-        "show_menu": "1",
-        "level": "3",
-        "parent": "11"
-      },
+ 
      
   }
   
